@@ -20,13 +20,13 @@
   first: false
   emoji: <i class="fa fa-graduation-cap" aria-hidden="true"></i>
 
-- name: Speaker
-  id: speaker
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  content: 
-  url: speaker.html
-  first: false
-  emoji: <i class="fa fa-commenting-o" aria-hidden="true"></i>
+# - name: Speaker
+#   id: speaker
+#   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   content: 
+#   url: speaker.html
+#   first: false
+#   emoji: <i class="fa fa-commenting-o" aria-hidden="true"></i>
 
 
 - name: Projects
