@@ -11,15 +11,15 @@
 title: Sepyan P. Kristanto
 email: 
 description: a minimalistic jekyll theme for academics
-baseurl:                                       # the subpath of your site, e.g. /blog
-url: "https://dumbarton.netlify.app/"          # the base hostname & protocol for your site, e.g. http://example.com
+baseurl:  ""                   # the subpath of your site, e.g. /blog
+url: "https://vianziro.netlify.app/"          # the base hostname & protocol for your site, e.g. http://example.com
 image: /assets/img/dumbarton.png               # used to generate site link preview
 image_alt: A minimalistic jekyll theme for academic    # image description
 
 # =======================================#
 # -----------SITE SETTINGS---------------#
 #========================================#: 
-author: John Doe 
+author:  Sepyan P. Kristanto
 profile_image: /assets/img/avatar/me.jpg #/assets/img/avatar/avatar.jpeg 
 occupation: lecturer
 snippet:
