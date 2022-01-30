@@ -26,7 +26,7 @@ snippet:
 twitter: vianziro
 github: vianziro
 linkedin: vianziro
-stackoverflow: '12935605'
+stackoverflow: 
 website: https://sepyankristanto.my.id
 codepen: 
 medium: 2754d3a8def378cc56c37c3e918c767d324c1cb2edd8af1b7f67396ce845b3dc5
@@ -133,7 +133,7 @@ scholar:
 # ------------CDN SETTINGS---------------#
 #-------------Used to generate icons-----#
 #========================================#
-font_awesome_id: 32a2b2a489                       # Register for free at https://fontawesome.com/ to get your id
+font_awesome_id: 3ab6bb0652                     # Register for free at https://fontawesome.com/ to get your id
 
 
 # =======================================#        # For more information about these settings, visit https://htmlhead.dev #
