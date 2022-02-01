@@ -1,6 +1,6 @@
 - name: Publications
   id: publications
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Below is a short list of articles and research papers I've published. For more information or to read the full article, click the linked icons below.
   url: publications.html
   first: true
   emoji: <i class="fa fa-pencil" aria-hidden="true"></i>
@@ -14,7 +14,7 @@
 
 - name: Teaching
   id: teaching
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Below is a short overview of courses I've help teach as an undergrade at Politeknik Negeri Banyuwangi.
   content: 
   url: teaching.html
   first: false
@@ -31,7 +31,7 @@
 
 - name: Projects
   id: projects
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: As a passionate open source developer, I spent much of my time writting and reviewing code. Below is a couple projects I am currently hacking on. If you're interested in the full list of projects I'm contributing to, please see my GitHub.
   content: 
   url: projects.html
   first: false
