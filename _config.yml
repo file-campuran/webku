@@ -11,7 +11,8 @@
 title: Sepyan P. Kristanto
 url-bar: " | Lecturer & Engineer"
 email: sepyan@poliwangi.ac.id
-description: a minimalistic jekyll theme for academics
+description: a personal site sepya purnama kristanto 
+keyword:
 baseurl:  ""                   # the subpath of your site, e.g. /blog
 url: "/"          # the base hostname & protocol for your site, e.g. http://example.com
 image: /assets/img/dumbarton.png               # used to generate site link preview
