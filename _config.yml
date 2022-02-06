@@ -95,6 +95,8 @@ plugins:
   - jekyll-feed
   - jekyll-scholar
   - jekyll-environment-variables
+  - jekyll-sitemap
+
 sass:
   sass_dir: _sass
   style: compressed
