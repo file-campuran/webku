@@ -5,7 +5,7 @@ date: 2020-11-20
 ---
 ### Hi, I'm Sepyan P. Kristanto👋       
 
-Hi there, I'm Vianziro, a Lecturer At Polytechnic  and a Software Engineering  from Indonesia, currently, I'm a Community Team Member [Intellegent System Labs](#). Talking about Personal Stuffs: 
+Hi there, I'm Sepyan Purnama Kristanto, a Lecturer At Polytechnic  and a Software Engineering  from Indonesia, currently, I'm a Community Team Member [Intellegent System Labs](#). Talking about Personal Stuffs: 
 
 * 👨🏽‍💻  I’m currently an Lecturer with Poliwangi working on Mobile & Web Programming
 * 🌱  I’m currently learning about Big Data, Machine Learning & Blockchain;
