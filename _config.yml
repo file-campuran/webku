@@ -11,12 +11,12 @@
 title: Sepyan P. Kristanto
 url-bar: " | Lecturer & Engineer"
 email: sepyan@poliwangi.ac.id
-description: a personal site sepya purnama kristanto 
-keyword:
+description: a personal site sepyan purnama kristanto 
+keyword: sepyan, sepyan kristanto, sepyan purnama, sepyan purnama kristanto, sepyan p, dosen poliwangi
 baseurl:  ""                   # the subpath of your site, e.g. /blog
 url: "/"          # the base hostname & protocol for your site, e.g. http://example.com
 image: /assets/img/dumbarton.png               # used to generate site link preview
-image_alt: A minimalistic jekyll theme for academic    # image description
+image_alt: sepyan purnama kristanto    # image description
 
 # =======================================#
 # -----------SITE SETTINGS---------------#
