@@ -14,4 +14,4 @@ Hi there, I'm Sepyan Purnama Kristanto, a Lecturer At Polytechnic  and a Softwar
     * 📫  Please email via sepyan@poliwangi.ac.id to reach me.
     * 📝  See my Profile to get more info.
 
-<a href="/contact.html" class="highlighted">Contact Me</a>
+<a href="https://www.canva.com/design/DAEg5k6UbP4/gwwZT9MYxdHefNqGy6hLIQ/view" class="highlighted">Resume</a>
