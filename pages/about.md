@@ -17,7 +17,7 @@ border-radius: 8px; will-change: transform;">
    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEg5k6UbP4&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
  </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEg5k6UbP4&#x2F;view?utm_content=DAEg5k6UbP4&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Sepyan P. Kristanto</a> oleh Vian Ziro
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEg5k6UbP4&#x2F;view?utm_content=DAEg5k6UbP4&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Sepyan P. Kristanto</a> 
 
 
 
