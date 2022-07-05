@@ -29,10 +29,10 @@
 - School:  Politeknik Negeri Banyuwangi
   Degree: 
   Department: DEPARTMENT OF SOFTWARE ENGINEERING TECHNOLOGY
-  Program: POL 240/SPI 312 Artificial Intellegent
-  id: POL-240/SPI-312-International-Relations
-  data-id: data-harv1
-  heading-id: head-harv1
+  Program: POL 312 Data Structure
+  id: POL-312-Data-Structure
+  data-id: data-structure
+  heading-id: head-data-structure
   StartDate: 08/30/2019
   EndDate: 08/30/2020
   first: true   # one must be true to properly display
@@ -42,10 +42,10 @@
 - School: Politeknik Negeri Banyuwangi
   Degree: 
   Department: DEPARTMENT OF SOFTWARE ENGINEERING TECHNOLOGY
-  Program: POL 380 Human Computer Interactions
-  id: POL-380-Human-Rights
-  data-id: data-princ1   
-  heading-id: head-princ1  # This can be any random string as long as each teaching set has a unique one. 
+  Program: POL 234 Mobile Programming
+  id: POL-234-Mobile-Programming
+  data-id: mobile-programming
+  heading-id: head-mobile1  # This can be any random string as long as each teaching set has a unique one. 
   StartDate: 08/30/2019
   EndDate: 08/30/2020
   first: false
